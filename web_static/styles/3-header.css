@@ -6,11 +6,12 @@ header {
 }
 
 .logo {
-	background-image: url('images/logo.png');
+	background-image: url('../images/logo.png');
 	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
 	margin-left: 20px;
 	display: flex;
 	align-items: center;
 }
-
 
