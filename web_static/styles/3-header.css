@@ -9,8 +9,6 @@ header {
 	background-image: url('images/logo.png');
 	background-repeat: no-repeat;
 	margin-left: 20px;
-	margin-right: auto;
-	height: 100%;
 	display: flex;
 	align-items: center;
 }
